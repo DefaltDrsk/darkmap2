@@ -1,5 +1,9 @@
 # darkmap2
 
+before installation!
+
+pip install python-nmap
+
 install 
 
 git clone https://github.com/vaxnoo2/darkmap2.git
