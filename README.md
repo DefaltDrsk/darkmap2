@@ -4,7 +4,7 @@ before installation!
 
 pip install python-nmap
 
-install 
+install in Kali and parrot
 
 git clone https://github.com/vaxnoo2/darkmap2.git
 
